@@ -13,7 +13,7 @@
                         <li class="pl-0 list-group-item border-0 py-1"><font-awesome-icon class="mx-2 text-success" style="font-size: 20px; position:relative; top: 2px" icon="check-circle"/>Tersedia Composer dan SSH untuk menginstal packages pilihan Anda.</li>
                     </ul>
                     <p class="small mt-3">Nb. Composer dan SSH hanya tersedia pada paket Personal dan Bisnis</p>
-                    <button type="button" class="btn btn-lg btn-primary border-radius-40">Pilih Hosting Anda</button>
+                    <button type="button" class="btn btn-lg btn-primary border-radius-40 mb-3">Pilih Hosting Anda</button>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 text-center text-md-left order-first order-md-2 align-self-center mb-5 mb-lg-0">
                     <img src="/svg/illustration banner support laravel hosting.svg" class="img-fluid" alt="">
