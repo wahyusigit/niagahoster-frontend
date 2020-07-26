@@ -1,0 +1,98 @@
+.border-radius-40 {
+    border-radius: 40px;
+}
+
+.font-family-montserrat {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.ribbon {
+    // height: 188px;
+    position: relative;
+    // margin-bottom: 30px;
+    // background: url(https://html5book.ru/wp-content/uploads/2015/10/snow-road.jpg);
+    // background-size: cover;
+    // text-transform: uppercase;
+    // color: white;
+}
+
+.ribbon2 {
+    width: 26px;
+    padding: 1px 0;
+    position: absolute;
+    top: -6px;
+    //    left: 25px;
+    text-align: center;
+    border-top-left-radius: 3px;
+    background: #298eea;
+}
+
+.ribbon2:before,
+.ribbon2:after {
+    content: "";
+    position: absolute;
+}
+
+.ribbon2:after {
+    height: 0;
+    width: 0;
+    bottom: -9.5px;
+    left: 0;
+    border-left: 13px solid #298eea;
+    border-right: 13px solid #298eea;
+    border-bottom: 10px solid transparent;
+}
+
+.wrap {
+    width: 100%;
+    height: 188px;
+    position: absolute;
+    top: -8px;
+    left: 8px;
+    overflow: hidden;
+}
+
+.wrap:before,
+.wrap:after {
+    content: "";
+    position: absolute;
+}
+
+.wrap:before {
+    width: 40px;
+    height: 8px;
+    right: 100px;
+    background: #4D6530;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.wrap:after {
+    width: 8px;
+    height: 40px;
+    right: 0px;
+    top: 100px;
+    background: #4D6530;
+    border-radius: 0px 8px 8px 0px;
+}
+
+@media (min-width: 500px) {
+    .ribbons-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .ribbon {
+        width: 48%;
+    }
+}
+
+.hr-short {
+  width: 100px;
+  border: 2px solid #f1f1f1;
+}
+
+.bg-primary {
+    background: #02a3f2;
+    color: #ffffff;
+}
