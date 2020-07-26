@@ -6,7 +6,7 @@
                     <span class="ribbon2"><font-awesome-icon class="mx-2 text-white" style="font-size:12px" icon="tag"/></span>
                     <span class="ml-3 pl-3">Gratis Ebook 9 Cara Cerdas Menggunakan Domain [x]</span>
                 </div>
-                <div class="col-sm-12 col-md-6 text-center text-md-right">
+                <div class="col-sm-12 col-md-6 row text-center text-md-right self-aign-center d-flex justify-content-center">
                     <a type="button" class="btn btn-link pr-1"><font-awesome-icon class="mx-2" icon="phone-alt"/>0274-5305505</a>
                     <a type="button" class="btn btn-link pr-1"><font-awesome-icon class="mx-2" icon="comments"/>Live Chat</a>
                     <a type="button" class="btn btn-link pr-1"><font-awesome-icon class="mx-2" icon="user-circle"/>Member Area</a>

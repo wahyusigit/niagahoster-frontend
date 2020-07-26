@@ -8,7 +8,7 @@
                     <button type="button" class="btn btn-lg btn-primary border-radius-40">Pilih Hosting Anda</button>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 text-center text-md-left order-first order-md-2 align-self-center mb-5 mb-lg-0">
-                    <img src="/images/Image support.png" width="400" alt="">
+                    <img src="/images/Image support.png" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
